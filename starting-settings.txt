@@ -1,0 +1,4 @@
+1. Open files always in a new tab:
+      workbench->editor->enablePreview: false
+2. 
+
